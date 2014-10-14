@@ -1,4 +1,4 @@
-Xcode zenangst Theme
+Xcode zenangst theme
 ============================
 
 A theme that really whips the llama's ass!
