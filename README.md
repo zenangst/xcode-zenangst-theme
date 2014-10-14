@@ -1,9 +1,9 @@
-Xcode Zenangst Theme
+Xcode zenangst Theme
 ============================
 
 A theme that really whips the llama's ass!
 
-![Zenangst Theme](https://raw.githubusercontent.com/zenangst/xcode-zenangst-theme/master/screenshot.png)
+![zenangst Theme](https://raw.githubusercontent.com/zenangst/xcode-zenangst-theme/master/screenshot.png)
 
 ## Install
 
