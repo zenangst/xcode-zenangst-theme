@@ -1,7 +1,7 @@
 Xcode Zenangst Theme
 ============================
 
-Zenangst theme, it really whips the llama's ass!
+A theme that really whips the llama's ass!
 
 ![Zenangst Theme](https://raw.githubusercontent.com/zenangst/xcode-zenangst-theme/master/screenshot.png)
 
