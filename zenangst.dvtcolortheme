@@ -45,7 +45,7 @@
 		<key>xcode.syntax.attribute</key>
 		<string>0.512 0.423 0.157 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.11 0 0.81 1</string>
+		<string>0.737255 0.403922 0.129412 1</string>
 		<key>xcode.syntax.comment</key>
 		<string>0 0.456 0 1</string>
 		<key>xcode.syntax.comment.doc</key>
@@ -85,7 +85,7 @@
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.364706 0.560784 0.0823529 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.737255 0.407843 0.133333 1</string>
+		<string>0.737255 0.403922 0.129412 1</string>
 		<key>xcode.syntax.url</key>
 		<string>0.055 0.055 1 1</string>
 	</dict>
